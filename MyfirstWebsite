@@ -76,7 +76,8 @@
         <!-- About Section -->
         <section id="about">
             <h2>About Me</h2>
-            <p>Hi, I'm [Your Name]! I'm passionate about natural nutrition and sharing my experiences with a clean, unprocessed diet. Join me as I explore the wonders of wholesome foods and their impact on health and wellness.</p>
+            <p>Hi, I'm Paul! I'm passionate about natural nutrition and sharing my experiences with a clean, unprocessed diet and which effects it had on my productivity, skin and generell well-being.
+            Join me as I explore the wonders of wholesome foods and their impact on health, fitness and muscle growth.</p>
         </section>
 
         <!-- Blog Section -->
@@ -95,9 +96,9 @@
             <h2>Recipes</h2>
             <p>Discover delicious, easy-to-make recipes that focus on natural, unprocessed ingredients:</p>
             <ul>
-                <li><a href="#">Green Smoothie for Breakfast</a></li>
-                <li><a href="#">Quinoa and Veggie Salad</a></li>
-                <li><a href="#">Roasted Root Vegetables</a></li>
+                <li><a href="#">Delicious Buckwheat-blue berry-Porridge  </a></li>
+                <li><a href="#">Steak with sweet potatos fries</a></li>
+                <li><a href="#">Healthy all natural dinner</a></li>
             </ul>
         </section>
 
